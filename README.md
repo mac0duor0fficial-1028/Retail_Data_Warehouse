@@ -1,4 +1,4 @@
-# Retail Data Warehouse 
+# Retail_Data_Warehouse 
 
 > **A modern data warehousing and analytics solution built with PostgreSQL on Aiven**
 
