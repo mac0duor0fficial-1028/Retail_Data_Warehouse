@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 **Project Overview**
+##  **Project Overview**
 
 This project demonstrates a **comprehensive data warehousing and analytics solution** using **PostgreSQL** managed on **Aiven**. It covers the entire pipeline: from **data ingestion** and **ETL processes** to **data modeling**, **transformation**, and **business-ready analytics**.
 
@@ -12,7 +12,7 @@ Designed as a **portfolio project**, it showcases **industry best practices** in
 
 ---
 
-## 🏗️ **Architecture**
+##  **Architecture**
 
 The project follows a **multi-layered data architecture** to ensure scalability, maintainability, and performance:
 
@@ -31,7 +31,7 @@ The project follows a **multi-layered data architecture** to ensure scalability,
 
 ---
 
-## 📂 **Project Structure**
+##  **Project Structure**
 
 ```
 SQL_Data_Warehousing_Project/
@@ -48,7 +48,7 @@ SQL_Data_Warehousing_Project/
 
 ---
 
-## 🛠️ **Technologies Used**
+##  **Technologies Used**
 
 - **Database**: PostgreSQL (Managed on **Aiven**)
 - **Data Ingestion**: CSV files (CRM, ERP, etc.)
@@ -58,7 +58,7 @@ SQL_Data_Warehousing_Project/
 
 ---
 
-## 🚀 **Getting Started**
+##  **Getting Started**
 
 ### **Prerequisites**
 
@@ -86,7 +86,7 @@ SQL_Data_Warehousing_Project/
 
 ---
 
-## 📊 **Data Flow**
+##  **Data Flow**
 
 1. **Sources**: CRM, ERP, and other systems export data as CSV files.
 2. **Bronze Layer**: Raw data is loaded into PostgreSQL tables without transformations.
@@ -96,7 +96,7 @@ SQL_Data_Warehousing_Project/
 
 ---
 
-## 🔍 **Key Features**
+##  **Key Features**
 
 - **Scalable Architecture**: Multi-layered design for easy maintenance and scalability.
 - **ETL Best Practices**: Batch processing, data cleansing, and normalization.
@@ -105,7 +105,7 @@ SQL_Data_Warehousing_Project/
 
 ---
 
-## 🤝 **Contributing**
+##  **Contributing**
 
 Contributions are welcome! Feel free to:
 
@@ -115,18 +115,7 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 📜 **License**
+##  **License**
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
-## 📞 **Contact**
-
-For questions or collaboration, reach out to:
-
-- **Email**: [mac0duor0fficial@gmail.com](mailto:mac0duor0fficial@gmail.com)
-- **GitHub**: [mac0duor0fficial](https://github.com/mac0duor0fficial)
-
----
 
